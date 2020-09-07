@@ -1,6 +1,6 @@
 # TG Bridger
 
-A Telegram Channel bridger. This bridge sends the message posted in one or many channel to one or many channel
+A Telegram Channel bridger. This bridge sends the message posted in one or many channel to one or many channel.
 
 ### Features
  - Supports Multiple Bridging Techniques.
@@ -13,7 +13,7 @@ A Telegram Channel bridger. This bridge sends the message posted in one or many 
 ### How To Use
 
 - Get your Telegram API ID, API HASH from [Telegram](https://my.telegram.org/apps).
-- Paste API ID and HASH in `.env` file
+- Paste API ID, HASH and Phone Number in `.env` file
 - Install requirements by `pip install -r requirements.txt`
 - Then Build a config file running `python config.py` 
 - Finally, run Code by `python bot.py`
