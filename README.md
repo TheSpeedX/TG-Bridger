@@ -30,7 +30,6 @@ Any contribution is highly appreciated.
 
 Feel free to open an issue  
 
-
-Mail: [ggspeedx29@gmail.com](mailto:ggspeedx29@gmail.com)  
-[Check Out My YouTube Channel](https://www.youtube.com/c/GyanaTech)
+[Telegram](http://t.me/the_space_bar)
+[Check Out My YouTube Channel](https://www.youtube.com/c/SpeedXTech)
 
